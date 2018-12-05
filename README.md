@@ -1,0 +1,1 @@
+This is amody's first git project!
